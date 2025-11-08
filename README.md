@@ -1,2 +1,0 @@
-# tg-bot
-wikipedia bot
